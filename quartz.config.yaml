@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: leflayff.github.io/TalesOfAcredaniaQ
+  baseUrl: leflayff.github.io/
   ignorePatterns:
     - private
     - templates
