@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d3b7ec1f12510fc6","type":"file","file":"git-repo/Images/AcreOS01Map 1.png","x":-607,"y":-520,"width":400,"height":400},
+		{"id":"a5898246beaa9131","type":"file","file":"git-repo/Images/Lirens_Mediavel.png","x":-120,"y":-520,"width":386,"height":400},
+		{"id":"4e5345ad9cab3c69","type":"file","file":"git-repo/Images/Lirens_Mediavel - Notes.png","x":-120,"y":-60,"width":386,"height":400}
+	],
+	"edges":[]
+}
