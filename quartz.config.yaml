@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: TalesOfAcredania.github.io/quartz
+  baseUrl: TalesOfAcredania.github.io/
   ignorePatterns:
     - private
     - templates
