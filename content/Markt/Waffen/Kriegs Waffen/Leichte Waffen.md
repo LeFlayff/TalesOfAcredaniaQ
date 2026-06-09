@@ -12,3 +12,6 @@
 | Totschläger            | 1 GM     | 1W4     | x2                 | -          | Nicht tödlich |
 | Wurfaxt                | 8 GM     | 1W4     | x2                 | 3 m        | -             |
 
+
+
+#items

@@ -34,3 +34,5 @@ Ihr könnt folgende Fertigkeitsgruppen wählen:
 - **Einschüchtern**: Das Ziel dieser Fertigkeitsgruppe ist es eine starke Reaktion in dem Ziel hervorzurufen. Egal auf welche Art und Weise dies eingesetzt wird, versteht das Ziel eine solche Aktion als einen persönlichen Angriff.
 - **Beruhigen**: Das Gegenstück zu Einschüchtern. Wenn ein Charakter in einen extremen Gefühlszustand versetzt wurde, sei es Panik, Ärger oder Frustration, dann kann durch Beruhigen der Versuch unternommen werden, die Wogen zu glätten.
 - **Feilschen/Verhandeln**: Man könnte denken, dass es sich hier auch um Überreden oder Feilschen handelt, jedoch geht es hier nicht darum das Ziel von einer Meinung oder Handlung zu überzeugen, sondern einen Kompromiss auszuhandeln, welcher für beide Seiten Vorteile mit sich bringt. Gerade NSCs, welche bemessen an ihrer Tätigkeit auf ihren eigenen Vorteil bedacht sein müssen ist es beispielsweise abwegig einen Überreden, Betören oder Einschüchtern Wurf abzulegen. Feilschen und Verhandeln wird auch bei dem aushandeln eines Vertrages benötigt und führt meistens zu längerfristig bindenden Vereinbarungen.
+
+#system

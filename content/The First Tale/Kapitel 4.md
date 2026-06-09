@@ -46,3 +46,5 @@ Es ist zudem ungewöhnlich für Drachen, dass sie humanoiden Wesen gegenüber so
 Dies ist er auch. Er war in einem Kampf mit den Schiffen der Hauptstadt Zora und wurde während dem Kampf in die enge gedrängt und musste abhauen, dies zeigt, dass trotz des komischen Verhaltens der Drachen, sie wohl immer noch logisch handeln und nicht stumpf alles angreifen. Sie haben wohl noch einen Überlebenssinn.
 
 ---Ende---
+
+#story

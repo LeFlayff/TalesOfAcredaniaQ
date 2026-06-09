@@ -32,3 +32,5 @@ Als sie am Ort des Geschehens ankommen mit Seilen zum runterklettern, hat der Ka
 Die komplette Materie zieht anschließend in eine kleine Kugel zusammen während die Platten auf den Boden stürzen und zerbröseln. Diese Kugel fällt herunter und dank eines Zaubers von Zontha, wird schnell erkennbar, dass jede Berührung fatal ist. Kurz darauf explodiert sie. Zurückbleibt ein Kheg mit schwerwiegenden Wunden und eine kleine schwere, aber diamantähnliche, Kugel.
 
 Zontha beobachtet das Geschehen von oben aus, wird jedoch kurz darauf von der zuvor genannten Person von der Klippe gestoßen. Anschließend tötet er noch die zwei verbleibenden Affen und verschwindet. Zontha, mit zwei gebrochenen Beinen, wird von Luna stabilisiert, während Gonneda versucht die Blutflecken, die er im Kampf entdeckte, zu untersuchen.
+
+#story

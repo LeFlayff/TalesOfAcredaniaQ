@@ -4,3 +4,6 @@
 | Schuppenpanzer | 50 GM     | +5                        | -4           | 25%                                | 3 m               |
 | Kettenpanzer   | 150 GM    | +6                        | -5           | 30%                                | 3 m               |
 | Brustplatte    | 200 GM    | +6                        | -4           | 25%                                | 3 m               |
+
+
+#items

@@ -8,3 +8,6 @@
 | Pfeile (20)         | 1 GM   | -       | -                  | -          | -        |
 | Kompositbogen, lang | 100 GM | 1W6     | x3                 | 33 m       | -        |
 | Pfeile (20)         | 1 GM   | -       | -                  | -          | -        |
+
+
+#items

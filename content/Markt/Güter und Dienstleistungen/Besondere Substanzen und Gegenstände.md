@@ -10,3 +10,6 @@
 | [Verstrickungsbeutel](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Verstrickungsbeutel "Grundregelwerk / Ausrüstung / Verstrickungsbeutel")     | 50 GM  |
 | [Weihwasser (Fläschchen)](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Weihwasser "Grundregelwerk / Ausrüstung / Weihwasser")                   | 25 GM  |
 | [Zündholz](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Zuendhoelzer "Grundregelwerk / Ausrüstung / Zündhölzer")                                | 1 GM   |
+
+
+#items

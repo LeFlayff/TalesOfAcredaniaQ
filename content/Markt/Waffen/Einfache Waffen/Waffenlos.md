@@ -3,3 +3,6 @@
 | Panzerhandschuh          | 2 GM  | 1W2     | x2                 | -          | -                                                                                                               |
 | Waffenloser Schlag | -     | 1W2     | x2                 | -          | Nicht tödlich |
 
+
+
+#items

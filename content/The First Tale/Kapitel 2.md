@@ -5,3 +5,5 @@ Dort werden ihre Wunden von den Heilern behandelt und sie werden anschließend i
 
 Am nächsten Morgen werden alle Zivilisten Richtung Shouji geschickt. Sie sollen sich dort in Sicherheit bringen, da das Dorf bereits gefallen sei und die Verteidigungslinie Richtung Bergkette zurückgezogen werden muss.  
 Kurz darauf sind alle aufgebrochen auch die nun 5 Reisenden. Kheg entschloss sich vorerst bei den anderen zu bleiben. Dem Bergpfad gefolgt kommen sie nach knapp einem Tag aus der Bergkette raus.  Dort spaltet sich die große Gruppe, da einige sich ein Stadtleben nicht vorstellen können, laufen sie zu einem kleinem Dorf weiter westlich, ebenso der alte Mann. Die Reisenden wollen allerdings nach Shouji. Einen weiteren Tag später kommen sie sich schließlich auch an.
+
+#story

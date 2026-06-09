@@ -11,3 +11,5 @@
 | Zweihänder                      | 50 GM | 1W10    | 19-20/x2           | -          | -                                                                                                                                                                                                                              |
 | Zweihändige Axt       | 20 GM | 1W10    | x3                 | -          | -                                                                                                                                                                                                                              |
 | Zweihändige Keule | 5 GM  | 1W8     | x2                 | -          | -                                                                                                                                                                                                                              |
+
+#items

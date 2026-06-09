@@ -71,3 +71,6 @@
 | [Winterdecke](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Winterdecke "Grundregelwerk / Ausrüstung / Winterdecke")                                            | 5 SM      |
 | [Wurfhaken](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Wurfhaken "Grundregelwerk / Ausrüstung / Wurfhaken")                                                  | 1 GM      |
 | [Zelt](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Zelt "Grundregelwerk / Ausrüstung / Zelt")                                                                 | 10 GM     |
+
+
+#items

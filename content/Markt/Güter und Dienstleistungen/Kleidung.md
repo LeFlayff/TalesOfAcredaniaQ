@@ -13,3 +13,5 @@
 |[Mönchskleidung](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Moenchskleidung "Grundregelwerk / Ausrüstung / Mönchskleidung")|5 GM|
 |[Unterhalterkleidung](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Unterhalterkleidung "Grundregelwerk / Ausrüstung / Unterhalterkleidung")|3 GM|
 |[Reisekleidung](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Reisekleidung "Grundregelwerk / Ausrüstung / Reisekleidung")|1 GM|
+
+#items

@@ -5,3 +5,6 @@
 | Stachelhandschuh | 5 GM  | 1W3     | x2                 | -          | -                                                                                                                   |
 | Leichter Streitkolben    | 5 GM  | 1W4     | x2                 | -          | -                                                                                                                   |
 | Stoßdolch                     | 2 GM  | 1W3     | x3                 | -          | -                                                                                                                   |
+
+
+#items

@@ -7,3 +7,6 @@
 | Stachelkette           | 25 GM  | 1W6     | x2                 | -          | Entwaffnen, Zu Fall bringen         |
 | Schreckensflegel       | 90 GM  | 1W6/1W6 | x2                 | —          | Doppel, Entwaffnen, Zu Fall bringen |
 | Zwergische Urgrosch    | 50 GM  | 1W6/1W4 | x3                 | -          | Abwehr, Doppel                      |
+
+
+#items

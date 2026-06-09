@@ -3,3 +3,6 @@
 | Kampfstab | -     | 1W4/1W4 | x2                 | -          |          |
 | Langspeer | 5 GM  | 1W6     | x3                 | -          |          |
 | Speer             | 2 GM  | 1W6     | x3                 | 6 m        |          |
+
+
+#items

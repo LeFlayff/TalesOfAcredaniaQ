@@ -9,3 +9,5 @@ Gonneda und Luna versuchen den beiden etwas später zu folgen und fragen deswege
 
 Letztendlich findet aber Lunas Hund Zontha und Kheg, der vor der Tür schläft. Die beiden begeben sich in das von Zontha gekaufte Zimmer, wo Luna zum zweiten Mal versucht Zontha was zu stehlen, aber erneut kläglich versagt. Zontha merkt aber nichts von ihrem Vorhaben. Wie dumm. Am nächsten Tag verbringend die 5 noch etwas Zeit in der Stadt. Kurz vor Abreise wollen sie sich noch Vorräte einkaufen, während Gonneda das ohne größere Probleme gelingt, legt sich Luna mit einem Geschäftsmann an und geriet anschließend in die Kontrolle der Wachen. 15GM können das Problem allerdings bewältigen. Zontha hingegen stiehlt erfolgreich paar Waren aus einem Obstladen.  
 Etwas später begeben sich die 5 erfolgreich auf ein Schiff auf dem Weg nach „Huelja“, die hauptsächlich von Elfen bewohnt wird.
+
+#story

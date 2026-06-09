@@ -18,3 +18,5 @@ Ihr könnt aus folgenden 5 Kategorien wählen:
 	- Einfach: [Zweihand Waffen](git-repo/Markt/Waffen/Einfache%20Waffen/Zweihand%20Waffen.md)
 	- Exotisch: [Zweihand Waffen](git-repo/Markt/Waffen/Exotische%20Waffen/Zweihand%20Waffen.md)
 	- Krieg: [Zweihand Waffen](git-repo/Markt/Waffen/Kriegs%20Waffen/Zweihand%20Waffen.md)
+
+#items

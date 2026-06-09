@@ -25,3 +25,6 @@
 | [Stallunterbringung (pro Tag)](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Stallunterbringung "Grundregelwerk / Ausrüstung / Stallunterbringung") | 5 SM                                                                 |
 | [Wachhund](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Hund "Grundregelwerk / Ausrüstung / Hund")                                                 | 25 GM                                                                |
 | [Zaumzeug](http://prd.5footstep.de/Grundregelwerk/Ausruestung/Zaumzeug "Grundregelwerk / Ausrüstung / Zaumzeug")                                         | 2 GM                                                                 |
+
+
+#items

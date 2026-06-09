@@ -10,3 +10,6 @@
 | Schleuderkugeln (10) | 1 SM  | -       | -                  | -          | -        |
 | Wurfpfeil            | 5 SM  | 1W3     | x2                 | 6 m        | -        |
 | Wurfspeer            | 1 GM  | 1W4     | x2                 | 9 m        | -        |
+
+
+#items

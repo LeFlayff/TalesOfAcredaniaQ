@@ -92,3 +92,5 @@ Er ist ein Irre geworden, der Grund weswegen er nicht mehr kämpfen kann, als er
 
 Er ist schmierig und glatzköpfig. Über 2m groß und breit wie ein Fels mit einer schweren Rüstung und einem Langschwert. Er trägt kein Helm, da er sehr selbstbewusst ist und denkt ihn könnte eh keiner am Kopf treffen.  
 Für Geld würde er alles tun, weswegen er chaotisch neutral ist.
+
+#story

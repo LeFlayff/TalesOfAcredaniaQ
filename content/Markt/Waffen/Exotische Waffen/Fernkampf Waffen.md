@@ -12,3 +12,6 @@
 | Armbrustbolzen (10)                                | 1 GM   | -       | -                  | -          | -                                                                                                                                                                                                                                    |
 | Netz                                                       | 20 GM  | -       | -                  | 3 m        | siehe Text                                                                                                                                                                                                                           |
 | Schuriken (5)                                      | 1 GM   | 1       | x2                 | 3 m        | Mönch                                                                                                                                      |
+
+
+#items

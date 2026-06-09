@@ -10,3 +10,6 @@
 | Streitaxt              | 10 GM    | 1W6     | x3                 | -          | -                           |
 | Leichter Streitflegel  | 8 GM     | 1W6     | x2                 | -          | Entwaffnen, Zu Fall bringen |
 | Schwerer Streithammer  | 8 GM     | 1W4     | x4                 | -          | -                           |
+
+
+#items
