@@ -12,7 +12,7 @@ Summe aller Punkte in einer Kategorie / 100 / 2
 
 Je nach eurer Rolle wird einer der drei Kategorien allerdings "Fokussiert". In dieser Kategorie können nun Spezialisierungen "85" erreichen.
 
-ACHTUNG! Minimum von 50 Punkten müssen in einer der drei Fertigkeitsgruppe "Waffen", "Arkana" oder "Auftreten" investiert werden. Eure Rolle bestimmt dies:
+ACHTUNG! Minimum von 50 Punkten müssen in einer der drei Fertigkeitsgruppe "Waffen", "Arkana" oder "Auftreten" investiert werden. Wir nennen diese 3 Fertigkeitsgruppen von nun an "Heldengruppen". Eure Rolle bestimmt dies:
 Alle Kämpferische Rollen verwenden **Waffen** als Fertigkeitsgruppe unter Handeln
 Alle Magischen Rollen verwenden **Arkana** als Fertigkeitsgruppe unter Wissen
 Alle Bardische Rollen verwenden **Auftreten** als Fertigkeitsgruppe unter Soziales
