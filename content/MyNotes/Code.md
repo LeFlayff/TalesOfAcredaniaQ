@@ -1,3 +1,5 @@
+https://deepwiki.com/quartz-community/v5/2.3-theme-and-styling
+
 Tags hinzufügen:
 Get-ChildItem "C:\Users\furka\Desktop\Obsidian\TalesOfGit\content\INSERTHERE" -Filter *.md -Recurse | ForEach-Object {
     $content = Get-Content $_.FullName -Raw
