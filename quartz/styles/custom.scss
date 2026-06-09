@@ -1,6 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-:root {  
-  --tag-background: #FFFDD0
+a[href="/tags/story"] {  
+  --tag-background: #F1B10E;  
+  --tag-color: #0E4EF1;  
+}  
+  
+a[href="/tags/system"] {  
+  --tag-background: #8228D7;  
+  --tag-color: #7DD728;  
+}
+
+a[href="/tags/items"] {  
+  --tag-background: #14CEEB;  
+  --tag-color: #EB3114;  
 }
