@@ -4,7 +4,7 @@
 [04 Wähle deine Fähigkeiten](04%20Wähle%20deine%20Fähigkeiten.md)
 [Bewegung](Bewegung.md)
 [Fertigkeitsgruppen](Fertigkeitsgruppen.md)
-[Spezialisierungen](Spezialisierungen.md)
+[Heldenaktionen](Heldenaktionen.md)
 
 
 #system

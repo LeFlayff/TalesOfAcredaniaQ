@@ -6,7 +6,7 @@ Wähle einer der folgenden Rollen:
 - [Schurke](Schurke.md)
 - [Waldläufer](Waldläufer.md)
 - [Druide](Druide.md)
-- [[Hexer](Hexer.md)]
+- [Hexer](Hexer.md)
 - [Magier](Magier.md)
 - [Runennutzer](Runennutzer.md)
 
