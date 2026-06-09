@@ -1,10 +1,9 @@
 
 Verteile **500 Punkte** auf deinem Charaktersheet
 
-Ihr könnt eure Punkte in [Fertigkeitsgruppen](Fertigkeitsgruppen.md) aufteilen. Fertigkeitsgruppen sind hierbei allgemein gefasst und müssen in der Liste auftauchen.
-Zusätzlich zu Fertigkeitsgruppen, können noch [Spezialisierungen](Spezialisierungen.md) gewählt werden. In diese werden keine Punkte gepackt. Stattdessen wird sie einer Fertigkeitsgruppe zugewiesen und dessen Punkte + den allgemein Wert zusammen verwendet. Die Auswahl der einer Spezialisierung ist frei, kann jedoch anhand der veelinkten Liste gewählt werden.
+Ihr könnt eure Punkte in [Fertigkeitsgruppen](Fertigkeitsgruppen.md) aufteilen. Fertigkeitsgruppen sind hierbei allgemein gefasst und müssen in der Liste auftauchen. Ihr könnt euch weitere erdenken, aber achtet dabei, dass sie allgemein gehalten sind und spricht sie vorher mit eurem Spielleiter ab.
 
-Euro Punkte pro Kategorie bilden zusammen den allgemeinen Wert dieser Kategorie. Dieser Wert, wird bei "Spezialisierungen" oben drauf gerechnet. 
+Euro Punkte pro Kategorie bilden zusammen den allgemeinen Wert dieser Kategorie. Dieser Wert, wird bei "[Spezialisierungen](Spezialisierungen.md)" oben drauf gerechnet. 
 Keiner eurer Würfe kann bei Level 1 den Wert "65" überschreiten.
 
 Euer allgemeiner Wert wird wie folgt berechnet:
@@ -12,6 +11,11 @@ Euer allgemeiner Wert wird wie folgt berechnet:
 Summe aller Punkte in einer Kategorie / 100 / 2
 
 Je nach eurer Rolle wird einer der drei Kategorien allerdings "Fokussiert". In dieser Kategorie können nun Spezialisierungen "85" erreichen.
+
+ACHTUNG! Minimum von 50 Punkten müssen in einer der drei Fertigkeitsgruppe "Waffen", "Arkana" oder "Auftreten" investiert werden. Eure Rolle bestimmt dies:
+Alle Kämpferische Rollen verwenden **Waffen** als Fertigkeitsgruppe unter Handeln
+Alle Magischen Rollen verwenden **Arkana** als Fertigkeitsgruppe unter Wissen
+Alle Bardische Rollen verwenden **Auftreten** als Fertigkeitsgruppe unter Soziales
 
 | Level | Fokussiert | Nicht Fokussiert |
 | ----- | ---------- | ---------------- |
@@ -28,7 +32,6 @@ Je nach eurer Rolle wird einer der drei Kategorien allerdings "Fokussiert". In d
 | 20    | 95         | 85               |
 
 
-Zusätzlich wird durch eure Rolle noch eurer Heldentyp bestimmt. Dieser Heldentyp ermöglicht euch die Wahl von begrenzten Heldenaktionen. Jede Heldenaktion kostet euch entweder Ausdauer-, Mana- oder Ruhmpunkte.
 
 
 #system
