@@ -1,0 +1,1 @@
+Bei [Götter](Götter.md) kannst du dich in eine Religion begeben. Je nach deiner Religion kannst erhältst du Boni und sonder Fertigkeiten.

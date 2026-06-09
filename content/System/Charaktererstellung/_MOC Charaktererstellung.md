@@ -4,6 +4,8 @@
 [04 Wähle deine Fertigkeitsgruppe](04%20Wähle%20deine%20Fertigkeitsgruppe.md)
 [05 Wähle deine Spezialisierungen](05%20Wähle%20deine%20Spezialisierungen.md)
 [06 Wähle deine Heldenaktionen](06%20Wähle%20deine%20Heldenaktionen.md)
+[07 Würfel dein Leben!](07%20Würfel%20dein%20Leben!.md)
+[08 Wähle dein Gott!](08%20Wähle%20dein%20Gott!.md)
 
 
 #system
