@@ -28,4 +28,8 @@ Je nach eurer Rolle wird einer der drei Kategorien allerdings "Fokussiert". In d
 | 20    | 95         | 85               |
 
 
+
+Zusätzlich wird durch eure Rolle noch eurer Heldentyp bestimmt. Dieser Heldentyp ermöglicht euch die Wahl von begrenzten Heldenaktionen. Jede Heldenaktion kostet euch entweder Ausdauer-, Mana- oder Ruhmpunkte.
+
+
 #system
