@@ -3,6 +3,8 @@ Alle Magischen Fähigkeiten nutzen den Wert deiner Schule für den Wurf.
 
 Du kannst nur jene magischen Fähigkeiten erlernen, die dieser Schule angehören. Deine Rolle bestimmt deine erste Schule auf Level 1
 
+Magische Charaktere nutzen "Manapunkte" für das Einsetzen Ihrer Fähigkeiten.
+
 Schule des Hütens
 Schule des Übernatürlichen
 Schule der Macht
