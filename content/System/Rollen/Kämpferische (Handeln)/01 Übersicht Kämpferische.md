@@ -5,11 +5,18 @@ Du kannst nur jene Waffen Fähigkeiten erlernen, die dieser Kategorie angehören
 
 Kämpferische Charaktere nutzen "Ausdauerpunkte" für das Einsetzen Ihrer Fähigkeiten.
 
-Schwerter und Klingenwaffen
-Stangenwaffen
-Hämmer und Stumpfe Waffen
-Bogen
-Armbrüste und Schusswaffen
-Waffenlos
+Als Kämpferische Gruppe erhältst du folgende KP und GP:
+KP = 4W10 + 10
+GP = 1W10 + 10
+
+Du erhältst folgende Ausdauerpunkte:
+AP = 2W20 + 10
+#### Waffen
+Schwerter und Klingenwaffen [Krieger](Krieger.md) [Schurke](Schurke.md)
+Stangenwaffen [Monk](Monk.md)
+Hämmer und Stumpfe Waffen [Krieger](Krieger.md)
+Bogen [Waldläufer](Waldläufer.md)
+~~Armbrüste und Schusswaffen~~
+Waffenlos [Monk](Monk.md)
 
 #system

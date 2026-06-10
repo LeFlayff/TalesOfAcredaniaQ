@@ -5,11 +5,18 @@ Du kannst nur jene magischen Fähigkeiten erlernen, die dieser Schule angehören
 
 Magische Charaktere nutzen "Manapunkte" für das Einsetzen Ihrer Fähigkeiten.
 
-Schule des Hütens
-Schule des Übernatürlichen
-Schule der Macht
-Schule der Elemente
-Schule der Zerstörung
-Schule der Wandlung
+Als Margische Gruppe erhältst du folgende KP und GP:
+KP = 1W10 + 10
+GP = 4W10 + 10
+
+Du erhältst folgende Manapunkte:
+MP = 2W10 + 20
+#### Arkana
+Schule des Hütens [[Magier]]; [Hexer](Hexer.md); [[Runennutzer]]; [Druide](Druide.md)
+Schule des Übernatürlichen [Hexer](Hexer.md)
+Schule der Macht [Magier](Magier.md)
+Schule der Elemente [Runennutzer](Runennutzer.md)
+Schule der Zerstörung [Runennutzer](Runennutzer.md)
+Schule der Wandlung [Druide](Druide.md)
 
 #system
