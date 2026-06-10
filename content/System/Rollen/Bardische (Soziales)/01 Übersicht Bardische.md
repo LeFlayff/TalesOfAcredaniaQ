@@ -6,11 +6,11 @@ Du kannst nur jene Konzentrierten Fähigkeiten erlernen, die dieser Kategorie an
 Bardische Charaktere nutzen "Ruhmpunkte" für das Einsetzen Ihrer Fähigkeiten.
 
 Taschenspielertricks
-Singen & Poesie
-Scharfes Wort / Verwirrung
-Willensträke / Widerstehen
-Beeindrucken
-Beigeistern / Motivieren
-Verühren
+Bezaubernde Stimme       - Singen & Poesie
+Psychotische Melodie      - Scharfes Wort / Verwirrung
+Magische Hand                - Willensträke / Widerstehen
+Die Schatzkammer           - Beeindrucken                   
+Machtvolles Publikum     - Beigeistern / Motivieren
+Betäubender Mist            - Verführen
 
 #system
