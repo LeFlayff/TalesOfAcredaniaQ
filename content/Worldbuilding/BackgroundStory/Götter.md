@@ -1,9 +1,4 @@
-
-Gott Kreation:
-1. Element Zugehörigkeit
-2. Name
-3. 2 - 4 kleine Benefits
-
+Extra Ergabenheiten erhältst du als Paladin oder wenn du eine besondere Ergabenheit deinem Gott erwiesen hast. 
 ###### **Gott des Meeres  
 Miriana
 
@@ -12,6 +7,9 @@ Miriana
 ·         Erschaffen von Wasser – Je Zahl 100ml – 3 mal pro Tag
 
 ·         Steuern eines Bootes ohne Steuerrad
+
+**Extra Ergabenheit** 
+- Einmal pro Tag: Nutze 100ml extra 
 
 ###### **Gott der Luft  
 Aang

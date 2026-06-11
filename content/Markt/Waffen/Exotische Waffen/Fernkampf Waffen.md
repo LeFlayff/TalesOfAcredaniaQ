@@ -1,17 +1,17 @@
 
-| Name                                                                                                                                                       | Preis  | Schaden | Kritischer Treffer | Reichweite | Speziell                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------- | ------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Bolas                                                      | 5 GM   | 1W3     | x2                 | 3 m        | Nicht tödlich, Zu Fall bringen |
-| Halblingsschleuderstab | 20 GM  | 1W6     | x3                 | 24 m       | -                                                                                                                                                                                                                                    |
-| Schleuderkugeln (10)                             | 1 SM   | -       | -                  | -          | -                                                                                                                                                                                                                                    |
-| Handarmbrust                                       | 100 GM | 1W3     | x2                 | 9 m        | -                                                                                                                                                                                                                                    |
-| Armbrustbolzen (10)                                | 1 GM   | -       | -                  | -          | -                                                                                                                                                                                                                                    |
-| Leichte Repetierarmbrust                           | 250 GM | 1W6     | x2                 | 24 m       | -                                                                                                                                                                                                                                    |
-| Armbrustbolzen (10)                                | 1 GM   | -       | -                  | -          | -                                                                                                                                                                                                                                    |
-| Schwere Repetierarmbrust                           | 400 GM | 1W8     | x2                 | 36 m       | -                                                                                                                                                                                                                                    |
-| Armbrustbolzen (10)                                | 1 GM   | -       | -                  | -          | -                                                                                                                                                                                                                                    |
-| Netz                                                       | 20 GM  | -       | -                  | 3 m        | siehe Text                                                                                                                                                                                                                           |
-| Schuriken (5)                                      | 1 GM   | 1       | x2                 | 3 m        | Mönch                                                                                                                                      |
+| Name                     | Preis  | Schaden | Kritischer Treffer | Reichweite | Speziell                       |
+| ------------------------ | ------ | ------- | ------------------ | ---------- | ------------------------------ |
+| Bolas                    | 5 GM   | 1W3     | x2                 | 3 m        | Nicht tödlich, Zu Fall bringen |
+| Halblingsschleuderstab   | 20 GM  | 1W6     | x3                 | 24 m       | -                              |
+| Schleuderkugeln (10)     | 1 SM   | -       | -                  | -          | -                              |
+| Handarmbrust             | 100 GM | 1W3     | x2                 | 9 m        | -                              |
+| Armbrustbolzen (10)      | 1 GM   | -       | -                  | -          | -                              |
+| Leichte Repetierarmbrust | 250 GM | 1W6     | x2                 | 24 m       | -                              |
+| Armbrustbolzen (10)      | 1 GM   | -       | -                  | -          | -                              |
+| Schwere Repetierarmbrust | 400 GM | 1W8     | x2                 | 36 m       | -                              |
+| Armbrustbolzen (10)      | 1 GM   | -       | -                  | -          | -                              |
+| Netz                     | 20 GM  | -       | -                  | 3 m        | siehe Text                     |
+| Schuriken (5)            | 1 GM   | 1       | x2                 | 3 m        | Mönch                          |
 
 
 #items
