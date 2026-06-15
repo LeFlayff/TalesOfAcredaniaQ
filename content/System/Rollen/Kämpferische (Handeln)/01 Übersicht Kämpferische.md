@@ -12,11 +12,11 @@ GP = 1W10 + 10
 Du erhältst folgende Ausdauerpunkte:
 AP = 2W20 + 10
 #### Waffen
-Waffenlos [[Krieger]], [[Monk]], 
-Einhand Waffen [[Krieger]], [[Paladin]],  
-Leichte Waffen [[Paladin]]
+Waffenlos [[Krieger]], [[Monk]], [Artificer](Artificer.md)
+Einhand Waffen [[Krieger]], [[Paladin]], [Schurke](Schurke.md)
+Leichte Waffen [[Paladin]], [Schurke](Schurke.md),
 Zwei Hand Waffen [[Krieger]], [[Paladin]]
-Fernkampf Waffen
-Schusswaffen 
+Fernkampf Waffen [Schurke](Schurke.md)
+Schusswaffen [Schurke](Schurke.md), [Artificer](Artificer.md)
 
 #system
