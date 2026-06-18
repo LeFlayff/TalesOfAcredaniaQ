@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"1e034f65fab2e409","type":"file","file":"git-repo/Images/Acredania_Digital.png","x":-640,"y":-760,"width":1030,"height":687},
-		{"id":"b043e51990d2431f","type":"file","file":"git-repo/Images/Acredania.jpeg","x":-640,"y":-60,"width":400,"height":300},
-		{"id":"1a20b00a75b5f1d9","type":"file","file":"Acredania_Digital.psd","x":-205,"y":-60,"width":160,"height":60}
+		{"id":"1e034f65fab2e409","type":"file","file":"Images/Acredania_Digital.png","x":-660,"y":-880,"width":1030,"height":687},
+		{"id":"b043e51990d2431f","type":"file","file":"Images/Acredania.jpeg","x":-660,"y":-160,"width":1030,"height":773}
 	],
 	"edges":[]
 }
