@@ -7,4 +7,8 @@ Nach 2 jahren wurde das Wesen "Bahamut" von einer Gruppe an Abenteurern und eine
 50 Jahre später, 5870, tauchten jedoch neue Portale auf. Durch diese Portale sind ca. 1% der Bevölkerung verschwunden. Der restlichen Bevölkerung ist nie komplett bewusst gewesen was passiert ist. Es gab Gerüchte, Verschwörungen, ein paar Wissende aber vor allem: Es wurde nicht wahrgenommen. 
 100 Jahre später, 5970, tauchten die Portale erneut auf. Doch anstatt Lebewesen verschwinden zu lassen, kamen jetzt alle verschwundenen Wesen zurück. Die Party war ein Teil hiervon.
 
-Als sie wieder auftauchten, war die Gruppe zusammen in einem düsteren Wald auf einer Insel in Huelja. 
+Als sie wieder auftauchten, war die Gruppe zusammen in einem düsteren Wald auf einer Insel in Huelja. Diese Insel wird beherrscht von Lord Kumatara mit einer Mist Magie. Die Insel hat ein paar Bewohner in einem kleinen Dorf. Das Dorf wirkt "normal". Lod Kumatara versucht durch den Mist das Volk zu schützen, hat dabei aber auch ihre Gehirne angezapft, um jeglichen Widerstand gegen die Trennung zur Außenwelt einzudämmen. 
+Das Dorf lebt derweil normal, hauptsächlich von eigener Ackerwirtschaft.
+Die Gruppe bemerkt einen Fade und muss regelmäßig Wissenschecks würfeln. 
+
+
