@@ -5,7 +5,7 @@
 | Leichter Stahlschild | 9 GM      | +1                        | - 1          | 5%                                 | -                 |
 | Schwerer Holzschild  | 7 GM      | +2                        | - 2          | 15%                                | -                 |
 | Schwerer Stahlschild | 20 GM     | +2                        | - 2          | 15%                                | -                 |
-| Turmschild           | 30 GM     | +43                       | - 10         | 50%                                | -                 |
+| Turmschild           | 30 GM     | +4                        | - 10         | 50%                                | -                 |
 
 
 #items

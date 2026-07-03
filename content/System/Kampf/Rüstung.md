@@ -1,4 +1,4 @@
-Rüstung wird als "Zusatzleben" betrachtet und kann entweder reperiert oder ausgetauscht werden nach dem Erreichen des 0 Wertes.
+Der Wert deines Rüstungsbonus wird vom jeglichen Schaden auf deinen Körper abgezogen. 
 
 Je nach Rüstung wird die Bewegungsreichweite eingeschränkt. Jeder Charakter kann jede Rüstung tragen.
 

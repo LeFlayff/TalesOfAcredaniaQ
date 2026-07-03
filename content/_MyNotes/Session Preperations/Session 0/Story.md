@@ -11,4 +11,6 @@ Als sie wieder auftauchten, war die Gruppe zusammen in einem düsteren Wald auf 
 Das Dorf lebt derweil normal, hauptsächlich von eigener Ackerwirtschaft.
 Die Gruppe bemerkt einen Fade und muss regelmäßig Wissenschecks würfeln. 
 
+Es handelt sich dabei um einen Earthbound Dorf, welches im Wald lebt und mit vielen Tieren interagiert. Dabei sind Pandalopen die Hauptgefährten der Elfen hier. 
 
+![286](Pasted%20image%2020260703144421.png)

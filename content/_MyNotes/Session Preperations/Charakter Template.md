@@ -17,4 +17,5 @@
 	Aussehen: 
 	Stimme: 
 	Gesinnung: 
+	Ziel: 
 	Flaw: 

@@ -1,6 +1,7 @@
 ###### Aktionen:
 - Bewegung
 - Hauptaktion
-- Zustatzaktion
+- Zusatzaktion
+https://howtobeahero.de/index.php/Erweitertes_Kampfsystem 
 
 #system
