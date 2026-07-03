@@ -11,5 +11,5 @@ Light Elfen sind eure bekannten Elfen. Sie leben i.d.R. in sekludierten festen S
 ### Earthbound Elf
 Vor Ionen haben sich eine Gruppe an Elfen abgespalten. Sie waren unzufrieden mit der Entwicklung der Stämme, welche sich immer mehr von den Wurzeln der Natur entfernt haben. Stämme haben sich in Wäldern und Gebirgsketten angesiedelt. Während Sie in Wäldern großgewachsen und agil geworden sind, haben Sie in Gebirgsketten Robustheit und Nähe zum Boden entwickelt. 
 
-Während Stämme in den Gebirgsketten oft Kriegerische Tendenzen haben, haben Stämme in den Wäldern durch die Verbundenheit eine Affinität zu Druiden entwickelt. Die Meisten Individuen der Waldstämme beherrschen Druidische Fähigkeiten und Leben oft in Partnerschaft mit einem Tier. 
+Während Stämme in den Gebirgsketten oft Kriegerische Tendenzen haben, haben Stämme in den Wäldern durch die Verbundenheit eine Affinität zu Druiden entwickelt. Die Meisten Individuen der Waldstämme beherrschen Druidische Fähigkeiten und Leben oft in Partnerschaft mit einem Tier. Teile dieses Volkes können sich als Druide direkt auf Lvl 1 in das Dorf Tier verwandeln.
 ![](Earthbound.png)
