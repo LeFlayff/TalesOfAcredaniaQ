@@ -1,0 +1,21 @@
+**Name:** 
+	Volk:
+	Rolle: 
+	Alter: 
+	Aussehen: 
+	Stimme: 
+	Ziel: 
+	Gesinnung: 
+	Flaw: 
+	Stats
+		Handeln:
+		Wissen:
+		Soziales: 
+
+**Name:** 
+	Volk:
+	Aussehen: 
+	Stimme: 
+	Gesinnung: 
+	Ziel: 
+	Flaw: 
