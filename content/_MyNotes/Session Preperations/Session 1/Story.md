@@ -2,3 +2,4 @@ Als die Spieler aufgewacht sind auf der Insel, haben sie erst mal etwas Zeit geb
 
 Den Grund dafür, dass sie sich auf die Insel begeben, kennen die Spieler allerdings nicht. Denn dort erscheint das Drachen council. Nach den Leuten erscheinende Teleporter in ganz Acredania Haben Sie die Drachen dazu entschieden, etwas zu unternehmen. Dafür wird ein Treffen abgehalten. 
 Bewohnt wird die Insel von Insektoiden der Klasse Ameisen.
+

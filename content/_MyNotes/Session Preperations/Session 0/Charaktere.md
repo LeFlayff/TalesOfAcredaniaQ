@@ -20,13 +20,6 @@
 	Ziel: Möchte ihr Buch fertig kriegen über Ihre GL mit Lord Kumatara
 	Flaw: Sobald Kumatara Thema ist oder in der Nähe, verliert sie die Beherrschung zu reden
 
-**Name:** Gorath
-	Volk: Earthbound Elf
-	Aussehen: Kleine sehr muskulöse und breite Statur
-	Stimme: "Nimm es weg, Nimm es weg, Nimm es weeeeg", nuschelbelastete tiefe Stimme
-	Gesinnung: Pessimist
-	Ziel: Anbau von Nahrung
-	Flaw: Hasst es Erde an seinen Händen zu haben
 
 **Name:** Elara
 	Volk: Earthbound Elf

@@ -10,7 +10,7 @@ Falls du dich für die Welt interessiert siehe hier:
 [_MOC Worldbuilding](_MOC%20Worldbuilding.md)
 
 Für alles was das PnP System angeht siehe hier:
-[_MOC System](_MOC%20System.md)
+[_MOC System](System/_MOC%20System.md)
 
 Und falls dich nach Items umschauen willst siehe hier:
 [_MOC Markt](_MOC%20Markt.md)
